@@ -27,7 +27,7 @@
 
 - A MERN-Stack Developer.
 - A Mechanical Engineering Undergraduate Student.
-- I am also a linux enthusiast.
+- A linux enthusiast.
 - Currently working on some of my cool side projects based on Web Development and Shell Scripting.
 - I love to learn and contribute in any and every possible way.
 
