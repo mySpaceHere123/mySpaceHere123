@@ -21,7 +21,7 @@
 </a> --> -->
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" />
+<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" height=20 width=100/>
 
 ### I am Ujjwal R.
 
@@ -32,4 +32,3 @@
 - I love to learn and contribute in any and every possible way.
 
 <!-- This code and Gif of this ReadMe is taken from https://github.com/darshan-jain -->
-
