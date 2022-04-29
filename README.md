@@ -21,7 +21,7 @@
 </a> --> -->
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" height=300 />
+<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" height=250 />
 
 ### I am Ujjwal R.
 
