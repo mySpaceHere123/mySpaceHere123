@@ -18,10 +18,10 @@
 </a>
 <a href="https://medium.com/@darshanjain_5991">
   <img align="left" alt="Darshan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> --> -->
+</a> -->
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" height=250 />
+<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" height=240 />
 
 ### I am Ujjwal R.
 
