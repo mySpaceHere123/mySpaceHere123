@@ -18,10 +18,10 @@
 </a>
 <a href="https://medium.com/@darshanjain_5991">
   <img align="left" alt="Darshan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
+</a> --> -->
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick.gif" />
+<img align="right" alt="GIF" src="https://github.com/mySpaceHere123/mySpaceHere123/blob/master/rick2.gif" />
 
 ### I am Ujjwal R.
 
@@ -30,3 +30,6 @@
 - I am also a linux enthusiast.
 - Currently working on some of my cool side projects based on Web Development and Shell Scripting.
 - I love to learn and contribute in any and every possible way.
+
+<!-- This code and Gif of this ReadMe is taken from https://github.com/darshan-jain -->
+
