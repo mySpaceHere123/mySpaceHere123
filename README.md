@@ -30,5 +30,6 @@
 - A linux enthusiast.
 - Currently working on some of my cool side projects based on Web Development and Shell Scripting.
 - I love to learn and contribute in any and every possible way.
+- Do look into projects pinned to my profile and let me know if you find anything interesting.
 
 <!-- This code and Gif of this ReadMe is taken from https://github.com/darshan-jain -->
