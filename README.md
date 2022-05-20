@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/ujjwal-raj-0442461bb">
   <img align="left" alt="Ujjwal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/mySpaceHere123">
+<a href="https://github.com/ujjwall-R">
   <img align="left" alt="Ujjwal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <!-- <a href="https://www.instagram.com/dar_tion._/">
