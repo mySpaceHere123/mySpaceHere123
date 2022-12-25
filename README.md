@@ -25,8 +25,8 @@
 
 ### I am Ujjwal R.
 
-- A MERN-Stack Developer.
-- A Mechanical Engineering Undergraduate Student.
+- A self-taught Developer.
+- A Mechanical Engineer
 - A linux enthusiast.
 - Currently working on some of my cool side projects based on Web Development and Shell Scripting.
 - I love to learn and contribute in any and every possible way.
