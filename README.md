@@ -26,7 +26,6 @@
 ### I am Ujjwal R.
 
 - A self-taught Developer
-<!-- - A Mechanical Engineer -->
 - A linux enthusiast
 - Hands on experience in several technology stacks
 - I love to learn and contribute in any and every possible way.
